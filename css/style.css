@@ -6,39 +6,23 @@ https://coolors.co/05668d-427aa1-ebf2fa-679436-a5be00
 
 */
 
-.section {
-    padding: 40px 0;
-    border: 1px solid #e3e3e3;
+
+h1 {
+    font-size: 30px;
+    color:#4aaaa5;
+    text-decoration: underline;
+    text-decoration-color: #4aaaa5;
 }
 
 body {
-    background-color: #EBF2FA;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/floor-tile.png)
 }
 
-h2 {
-    font-family: 'Knewave', cursive;
+.main-box {
+    background-color: white;
+    padding:20px;
+    margin-top:10%; 
+    max-width: 1000px;
 }
 
 
-.h2 {
-    font-family: 'Knewave', cursive;
-    color: #679436;
-}
-
-h5 {
-    color: #05668D;
-}
-
-p.text {
-    color:#05668D;
-}
-
-.underline {
-    border-bottom: 2px dotted #e3e3e3;
-    padding-bottom: 5px;
-}
-
-.row.borderGrey {
-    border-top: 1px solid grey;
-    padding: 20px 0px;
-}
