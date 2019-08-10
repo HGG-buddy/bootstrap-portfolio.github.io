@@ -1,0 +1,47 @@
+
+
+
+*/
+
+
+h1 {
+    font-size: 30px;
+    color:#4aaaa5;
+    text-decoration: underline;
+    text-decoration-color: #4aaaa5;
+}
+
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/floor-tile.png)
+}
+
+.main-box {
+    background-color: white;
+    padding:20px;
+    margin-top:10%; 
+    max-width: 1000px;
+}
+
+
+
+.portfolio-box {
+    position: relative;
+    float: left;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    background: url(../images/cal.jpg) center/cover;
+}
+.portfolio-box span {
+    color: white;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+.portfolio-box-label {
+    bottom: 10px;
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 100%;
+}
